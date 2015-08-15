@@ -1,0 +1,10 @@
+blocked-terms:
+- "-1"
+
+permission-bypass: true
+block-in-all-commands: false
+block-terms-in-commands:
+- buy
+
+blocked-commands:
+- op

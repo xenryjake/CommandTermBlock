@@ -1,0 +1,7 @@
+name: CommandTermBlock
+main: com.xenry.commandtermblock.CommandTermBlock
+version: 1.0
+author: Xenry
+commands:
+  reload-ctb:
+    description: Reload CommandTermBlock
