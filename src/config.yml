@@ -1,10 +1,17 @@
+# Specify the terms you wish to block here.
 blocked-terms:
 - "-1"
 
+# If you want players with the permission commandtermblock.bypass to bypass the term filter, set this to true.
 permission-bypass: true
+
+# If you want to ignore the block-terms-in-commands list, set this to true.
 block-in-all-commands: false
+
+# Specify the commands you want to block terms in.
 block-terms-in-commands:
 - buy
 
+# Specify the commands you want to block fully. commandtermblock.bypass does not affect this.
 blocked-commands:
 - op
